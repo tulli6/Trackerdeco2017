@@ -1,0 +1,11 @@
+{
+  "name": "rdon3308-tracker",
+  "version": "1.0.0",
+  "description": "Web application for tracking..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Dongas",
+  "license": "ISC"
+}
