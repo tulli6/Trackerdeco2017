@@ -1,11 +1,10 @@
 {
-  "name": "rdon3308-tracker",
+  "name": "deco2017-node",
   "version": "1.0.0",
-  "description": "Web application for tracking..",
+  "description": "Web application running on a node server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "author": "Rob Dongas",
-  "license": "ISC"
+  "author": "Rob Dongas"
 }
